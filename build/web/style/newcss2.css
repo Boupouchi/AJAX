@@ -1,0 +1,70 @@
+/* Style pour le conteneur */
+fieldset {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style pour le tableau */
+.tab {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    width: 100%;
+    background-color: #000;
+}
+
+.tab td, .tab th {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+.tab tr:nth-child(even) {
+    background-color: #333;
+}
+
+.tab tr:nth-child(odd) {
+    background-color: #222;
+}
+
+/* Style pour les boutons */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    font-family: Arial, sans-serif;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #000;
+}
+
+.btn-danger {
+    background-color: #444;
+}
+
+/* Style pour le bouton "Modifier" */
+.bnupdate {
+    background-color: #444;
+    color: white;
+}
+
+/* Style pour le bouton "Supprimer" */
+.bndelete {
+    background-color: #333;
+    color: white;
+}
+
