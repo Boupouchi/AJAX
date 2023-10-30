@@ -1,5 +1,6 @@
 # AJAX
 The web-based application manages student records, machine brands, and individual machines using a user-friendly CRUD interface. Users can apply filters based on brand or reference, and the application provides visual representations like bar graphs and charts to illustrate machine distribution among different brands.
+
 # SCEENSHOTS
 
 ![WhatsApp Image 2023-10-30 at 23 53 57](https://github.com/Boupouchi/AJAX/assets/81436882/e959baac-9949-476f-8c21-f5622c86c5d0)
@@ -19,3 +20,12 @@ The web-based application manages student records, machine brands, and individua
 ![WhatsApp Image 2023-10-30 at 23 53 49(1)](https://github.com/Boupouchi/AJAX/assets/81436882/708f3c66-2cfd-4732-8180-c04f5c8e3562)
 
 ![WhatsApp Image 2023-10-30 at 23 33 15](https://github.com/Boupouchi/AJAX/assets/81436882/e90c8521-e780-428b-bdf1-5dcc094f27d9)
+
+# TECHNOLOGIES USED
+
+* java
+* html
+* css
+* jsp
+* glassfish
+* javascript
