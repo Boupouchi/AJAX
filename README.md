@@ -12,10 +12,10 @@ The web-based application manages student records, machine brands, and individua
 
 ![WhatsApp Image 2023-10-30 at 23 53 51](https://github.com/Boupouchi/AJAX/assets/81436882/4e6d10cc-27e8-4d7c-9804-71774f7a2ff2)
 
+![WhatsApp Image 2023-10-30 at 23 53 49](https://github.com/Boupouchi/AJAX/assets/81436882/661a5c2c-1dbf-4324-89e0-77d3d5cd0890)
+
 ![WhatsApp Image 2023-10-30 at 23 53 52](https://github.com/Boupouchi/AJAX/assets/81436882/2b287f21-0f08-47d3-b9a6-fd5cce702ab2)
 
 ![WhatsApp Image 2023-10-30 at 23 53 49(1)](https://github.com/Boupouchi/AJAX/assets/81436882/708f3c66-2cfd-4732-8180-c04f5c8e3562)
-
-![WhatsApp Image 2023-10-30 at 23 53 49](https://github.com/Boupouchi/AJAX/assets/81436882/661a5c2c-1dbf-4324-89e0-77d3d5cd0890)
 
 ![WhatsApp Image 2023-10-30 at 23 33 15](https://github.com/Boupouchi/AJAX/assets/81436882/e90c8521-e780-428b-bdf1-5dcc094f27d9)
